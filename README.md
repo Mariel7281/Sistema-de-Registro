@@ -3,4 +3,5 @@
  -Estado del proyecto: en construcción.
  
 Para ejecutar el sistema, debes de poner:
- npm install reat
+ 
+ -npm install reat-
